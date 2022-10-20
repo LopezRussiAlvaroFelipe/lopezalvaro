@@ -8,13 +8,6 @@ package com.mycompany.lopezalvaro;
  *
  * @author sala4
  */
-public class TaskScheduler {
-    
-    /*
-    nombre alvaro felipe lopez russi
-    documento 1000493175
-    codigo 67000867
-    
-    */
+public class Diaria {
     
 }
