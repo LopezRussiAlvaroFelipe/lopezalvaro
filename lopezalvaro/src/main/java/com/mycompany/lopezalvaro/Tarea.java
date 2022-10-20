@@ -4,6 +4,8 @@
  */
 package com.mycompany.lopezalvaro;
 
+import java.util.Date;
+
 /**
  *
  * @author sala4
@@ -42,6 +44,10 @@ public class Tarea {
     
     public void ejecutar(){};
     public void doEjecutar(){};
- 
+    public Date ultimaEjecucion(){
+        return null;
+    };
+    public void vecesQueSeEjecuto(Date hola,Date hola2){};
+    public void vecesQueDioError(Date hola,Date hola2){};
     
 }
