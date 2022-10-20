@@ -10,4 +10,12 @@ package com.mycompany.lopezalvaro;
  */
 public class Diaria {
     
+    public boolean correspondeEjecutar(){
+    
+    
+    return true;
+    }
+    
+    
+    
 }

@@ -17,4 +17,6 @@ public class TaskScheduler {
     
     */
     
+    public void tic(){}
+    public void add(){}
 }
