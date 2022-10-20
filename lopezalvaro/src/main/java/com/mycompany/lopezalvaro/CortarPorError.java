@@ -8,7 +8,12 @@ package com.mycompany.lopezalvaro;
  *
  * @author sala4
  */
-public class CortarPorError {
+public class CortarPorError implements EstrategiaEjecucion {
+
+    @Override
+    public void ejecutar() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     
     
     
