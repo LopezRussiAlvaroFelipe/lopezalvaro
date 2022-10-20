@@ -8,19 +8,6 @@ package com.mycompany.lopezalvaro;
  *
  * @author sala4
  */
-public class Diaria extends TareaProgramada{
-    
-    /**
-     *
-     * @return
-     */
-    @Override
-    public boolean correspondeEjecutar(){
-    
-    
-    return true;
-    }
-    
-    
+public class Tarea {
     
 }
