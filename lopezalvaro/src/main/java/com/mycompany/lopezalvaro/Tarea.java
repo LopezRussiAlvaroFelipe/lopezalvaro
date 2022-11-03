@@ -10,7 +10,7 @@ import java.util.Date;
  *
  * @author sala4
  */
-public class Tarea {
+public class Tarea extends TareaProgramada {
 
     private boolean habilitada;
     private boolean deshabilitarSiFalla;
